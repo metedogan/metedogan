@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mete Dogan 👋
 
-<!--
-**metedogan/metedogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist** & MSc. Candidate in Data Science
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Top Skills
+- Python | pandas | seaborn | scikit-learn
+- SQL | Data Analysis | Data Visualization
+- Machine Learning
+
+---
+
+### 📌 Featured Projects
+- [customer-segmentation-rfm](https://github.com/metedogan/customer-segmentation-rfm): RFM analysis for customer segmentation and marketing insights.
+- [ai-recycling-machine](https://github.com/metedogan/ai-recycling-machine): AI-powered system for smart recycling and waste classification.
+
+---
+
+### 🌐 Connect with Me
+[LinkedIn](https://linkedin.com/in/meteedogan)
