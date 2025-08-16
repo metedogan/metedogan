@@ -1,4 +1,4 @@
-# Hi, I'm Mete Dogan 👋
+# Hi, I'm Mete Doğan 👋
 
 **Data Scientist** & MSc. Candidate in Data Science
 
